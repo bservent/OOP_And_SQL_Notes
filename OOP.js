@@ -15,7 +15,7 @@
 //methods encapsulate all knowledge of data that makes up class = easily modularized code
 //sphagetti code = code not encapsulized therefore is being invoked from different places = hard to work with
 //public (visible anywhere) vs. private (visible only to methods of own type)
-//all fields should be private, methods can be either
+//all fields should be private in specified class, methods can be either
 
 
 //Inheritance
